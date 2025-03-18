@@ -2,5 +2,6 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+nvcr.io/nvidia/isaac-sim:2023.1.0-hotfix.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
